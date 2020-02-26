@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 import datetime, time
-import jason
+import json
 import dlib
 # start the camera
 cap = cv2.VideoCapture(args.src)
